@@ -3,9 +3,7 @@
 A fun and interactive memory-matching game built with **HTML**, **CSS**, and **JavaScript**. Flip the cards and find the matching pairs before your lives or time run out!
 
 ## 🚀 Live Demo
-
-<!-- Add your hosted link if available -->
-[Click here to play the game](#)
+[ https://mahesh20dev.github.io/Memory-Card-Game/](#)
 
 
 
@@ -38,6 +36,6 @@ A fun and interactive memory-matching game built with **HTML**, **CSS**, and **J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   git clone https://github.com/Mahesh20dev/Memory-Card-Game
 
 
