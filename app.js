@@ -12,22 +12,22 @@ scores.innerText=`Your Score: ${playerScore}`;
 
 
 const getData = () =>  [
-      { imgSrc: "./a.jpg", id: 1, name: "a" },
-      { imgSrc: "./b.jpg", id: 2, name: "b" },
-      { imgSrc: "./c.jpg", id: 3, name: "c" },
-      { imgSrc: "./d.jpg", id: 4, name: "d" },
-      { imgSrc: "./e.jpg", id: 5, name: "e" },
-      { imgSrc: "./f.jpg", id: 6, name: "f" },
-      { imgSrc: "./g.jpg", id: 7, name: "g" },
-      { imgSrc: "./h.jpg", id: 8, name: "h" },
-      { imgSrc: "./a.jpg", id: 9, name: "a" },
-      { imgSrc: "./b.jpg", id: 10, name: "b" },
-      { imgSrc: "./c.jpg", id: 11, name: "c" },
-      { imgSrc: "./d.jpg", id: 12, name: "d" },
-      { imgSrc: "./e.jpg", id: 13, name: "e" },
-      { imgSrc: "./f.jpg", id: 14, name: "f" },
-      { imgSrc: "./g.jpg", id: 15, name: "g" },
-      { imgSrc: "./h.jpg", id: 16, name: "h" },
+      { imgSrc: "./public/a.jpg", id: 1, name: "a" },
+      { imgSrc: "./public/b.jpg", id: 2, name: "b" },
+      { imgSrc: "./public/c.jpg", id: 3, name: "c" },
+      { imgSrc: "./public/d.jpg", id: 4, name: "d" },
+      { imgSrc: "./public/e.jpg", id: 5, name: "e" },
+      { imgSrc: "./public/f.jpg", id: 6, name: "f" },
+      { imgSrc: "./public/g.jpg", id: 7, name: "g" },
+      { imgSrc: "./public/h.jpg", id: 8, name: "h" },
+      { imgSrc: "./public/a.jpg", id: 9, name: "a" },
+      { imgSrc: "./public/b.jpg", id: 10, name: "b" },
+      { imgSrc: "./public/c.jpg", id: 11, name: "c" },
+      { imgSrc: "./public/d.jpg", id: 12, name: "d" },
+      { imgSrc: "./public/e.jpg", id: 13, name: "e" },
+      { imgSrc: "./public/f.jpg", id: 14, name: "f" },
+      { imgSrc: "./public/g.jpg", id: 15, name: "g" },
+      { imgSrc: "./public/h.jpg", id: 16, name: "h" },
     ];
 
 const randomize = ()=>{
