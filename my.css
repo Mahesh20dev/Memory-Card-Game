@@ -5,7 +5,8 @@
 }
 
 body {
-  height: 100%;
+  min-height: 100vh; /* instead of height: 100% */
+  height: auto;       /* allow body to shrink to content */
   color: #1A2130;
   background: rgb(34,193,195);
   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
@@ -14,6 +15,7 @@ body {
   align-items: center;
   flex-direction: column;
   font-family: Poppins, sans-serif;
+  overflow: hidden; /* removes any scroll space below */
 }
 
 .boxes {
@@ -53,9 +55,9 @@ section {
   grid-template-rows: repeat(4, 8rem);
   grid-template-columns: repeat(4, 8rem);
   perspective: 800px;
-  grid-gap:0.5rem;
+  grid-gap: 0.5rem;
   margin: 2rem;
-  height: 100vh;
+  height: auto; /* instead of 100vh */
 }
 
 .card {
