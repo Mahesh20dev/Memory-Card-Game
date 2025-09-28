@@ -3,7 +3,7 @@
 A fun and interactive memory-matching game built with **HTML**, **CSS**, and **JavaScript**. Flip the cards and find the matching pairs before your lives run out!
 
 ## 🚀 Live Demo
-[https://mahesh20dev.github.io/Memory-Card-Game/](#)
+[Click Here to Play](https://mahesh20dev.github.io/Memory-Card-Game/)
 
 ---
 
